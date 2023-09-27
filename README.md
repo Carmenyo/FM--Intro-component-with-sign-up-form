@@ -2,7 +2,7 @@
 
 A responsive form challenge completed as part of the Frontend Mentor challenges. This form is built using HTML, CSS, and JavaScript and is designed to provide error messages when fields are filled out incorrectly. The responsive design ensures a consistent user experience across various devices.
 
-![Design preview for the Intro component with sign up form coding challenge](./images/Frontend-Mentor-Intro-component-with-sign-up-form.png)
+![Design preview for the Intro component with sign up form coding challenge](./images/Neutral%20Minimal%20Shadow%20Photographer%20Frame%20Mockup%20Pinterest%20Pin.png)
 
 ## Features
 
